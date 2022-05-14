@@ -1,0 +1,7 @@
+D:\MCU_XPRESSS\Capstone_Project\CMSIS/core_cm0plus.h:745:22:NVIC_EnableIRQ	16	static
+D:\MCU_XPRESSS\Capstone_Project\CMSIS/core_cm0plus.h:791:22:NVIC_ClearPendingIRQ	16	static
+D:\MCU_XPRESSS\Capstone_Project\CMSIS/core_cm0plus.h:804:22:NVIC_SetPriority	24	static
+../source/hand_movement.c:4:6:init_TPM2	8	static
+../source/hand_movement.c:39:6:TPM2_IRQHandler	8	static
+../source/hand_movement.c:82:6:start_motor	8	static
+../source/hand_movement.c:91:6:delay	24	static

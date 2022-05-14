@@ -1,0 +1,14 @@
+D:\MCU_XPRESSS\Capstone_Project\CMSIS/core_cm0plus.h:745:22:NVIC_EnableIRQ	16	static
+D:\MCU_XPRESSS\Capstone_Project\CMSIS/core_cm0plus.h:791:22:NVIC_ClearPendingIRQ	16	static
+D:\MCU_XPRESSS\Capstone_Project\CMSIS/core_cm0plus.h:804:22:NVIC_SetPriority	24	static
+../source/Human_Touch.c:20:6:init_pin	8	static
+../source/Human_Touch.c:34:6:init_Ultrasonic	8	static
+../source/Human_Touch.c:59:6:init_PIT0	8	static
+../source/Human_Touch.c:83:6:sleep_call	8	static
+../source/Human_Touch.c:100:6:sleep_func	16	static
+../source/Human_Touch.c:116:9:Calibration_ADC	16	static
+../source/Human_Touch.c:150:6:init_ADC	8	static
+../source/Human_Touch.c:204:6:init_PIT1	8	static
+../source/Human_Touch.c:236:6:LLWU_IRQHandler	8	static
+../source/Human_Touch.c:245:6:PIT_IRQHandler	8	static
+../source/Human_Touch.c:375:6:TPM1_IRQHandler	16	static

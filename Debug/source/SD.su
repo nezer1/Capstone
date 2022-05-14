@@ -1,0 +1,9 @@
+../source/SD.c:6:9:MicroSDcard_command	32	static
+../source/SD.c:51:9:Wait_Read	24	static
+../source/SD.c:67:9:init_MicroSDcard	544	static
+../source/SD.c:141:9:Read_CSD_CID	32	static
+../source/SD.c:164:9:readSingleBlock	32	static
+../source/SD.c:194:9:readMultipleBlock	40	static
+../source/SD.c:224:9:writeSingleBlock	32	static
+../source/SD.c:270:9:SD_WaitReady	24	static
+../source/SD.c:283:9:writeMultipleBlocks	40	static

@@ -1,0 +1,5 @@
+D:\MCU_XPRESSS\Capstone_Project\CMSIS/core_cm0plus.h:745:22:NVIC_EnableIRQ	16	static
+D:\MCU_XPRESSS\Capstone_Project\CMSIS/core_cm0plus.h:791:22:NVIC_ClearPendingIRQ	16	static
+D:\MCU_XPRESSS\Capstone_Project\CMSIS/core_cm0plus.h:804:22:NVIC_SetPriority	24	static
+../source/Session_Selection_Unit.c:5:6:Init_session	8	static
+../source/Session_Selection_Unit.c:33:6:PORTD_IRQHandler	16	static

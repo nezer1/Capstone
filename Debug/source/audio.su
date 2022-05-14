@@ -1,0 +1,4 @@
+../source/audio.c:19:5:load_wav	72	static
+../source/audio.c:80:6:init_DAC	8	static
+../source/audio.c:100:6:init_systick	8	static
+../source/audio.c:108:6:SysTick_Handler	16	static
